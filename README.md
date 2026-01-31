@@ -7,16 +7,10 @@ It is designed as a **modular, extensible Python project**, suitable for coursew
 The system utilizes:
 
 * **LangChain** as the orchestration framework,
-* **OpenAI/Gemini** for embeddings and question answering,
+* **OpenAI** for embeddings and question answering,
 * **Chroma** as the vector database,
 * **Transformers** for optional local PDF summarization,
 * **Gradio** for a simple web-based user interface.
-
----
-
-## Example
-
-*(Screenshots can be added here once the UI is running)*
 
 ---
 
