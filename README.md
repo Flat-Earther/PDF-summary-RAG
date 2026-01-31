@@ -7,7 +7,7 @@ It is designed as a **modular, extensible Python project**, suitable for coursew
 The system utilizes:
 
 * **LangChain** as the orchestration framework,
-* **OpenAI** for embeddings and question answering,
+* **OpenAI/Gemini** for embeddings and question answering,
 * **Chroma** as the vector database,
 * **Transformers** for optional local PDF summarization,
 * **Gradio** for a simple web-based user interface.
@@ -25,8 +25,8 @@ The system utilizes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pdf-rag-summarizer.git
-   cd pdf-rag-summarizer
+   git clone https://github.com/Flat-Earther/PDF-summary-RAG.git
+   cd PDF-summary-RAG
    ```
 
 2. Create a virtual environment:
