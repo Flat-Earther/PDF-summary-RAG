@@ -25,7 +25,7 @@ The system utilizes:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/pdf-rag-summarizer.git
+   git clone https://github.com/Flat-Earther/PDF-summary-RAG.git
    cd PDF-summary-RAG
    ```
 
