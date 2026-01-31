@@ -26,7 +26,7 @@ The system utilizes:
 
    ```bash
    git clone https://github.com/your-username/pdf-rag-summarizer.git
-   cd pdf-rag-summarizer
+   cd PDF-summary-RAG
    ```
 
 2. Create a virtual environment:
