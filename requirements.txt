@@ -1,0 +1,26 @@
+# Core LLM + RAG
+langchain>=0.1.17
+langchain-community>=0.0.36
+langchain-openai>=0.1.6
+langchain-chroma>=0.1.2
+chromadb>=0.4.24
+openai>=1.10.0
+
+# PDF processing
+pypdf>=4.0.0
+PyPDF2>=3.0.1
+fpdf>=1.7.2
+
+# Text processing
+nltk>=3.8.1
+
+# Summarization (local models)
+transformers>=4.37.0
+torch>=2.0.0
+
+# UI
+gradio>=4.20.0
+
+# Utilities
+python-dotenv>=1.0.1
+tqdm>=4.66.1
